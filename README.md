@@ -138,7 +138,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=surajdeveloper&theme=react-dark&area=true)
 <!--
-**Aakashdeveloper/surajdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**surajdeveloper/surajdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
